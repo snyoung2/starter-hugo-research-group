@@ -1,6 +1,7 @@
 ---
 title: Sierra Young
 role: Assistant Professor of Civil and Environmental Engineering
+avatar_filename: avatar.jpg
 bio: My research interests include environmental field robotics, visual sensing,
   and data analytics.
 interests: []
