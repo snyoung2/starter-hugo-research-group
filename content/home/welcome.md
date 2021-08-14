@@ -2,7 +2,7 @@
 widget: hero
 widget_id: homepage
 headless: true
-weight: 0
+weight: 10
 title: The DAISy Lab @ Utah State
 active: false
 design:
