@@ -1,6 +1,6 @@
 ---
 title: Anh Nguyen
-role: PhD Student
+role: PhD Student, Civil and Environmental Engineering
 avatar_filename: avatar.jpg
 social: []
 superuser: false
