@@ -1,6 +1,6 @@
 ---
 title: Hyperspectral imaging-enabled high-throughput screening of loblolly pine
-  (*Pinus taeda L.*) seedlings for freeze tolerance
+  (Pinus taeda L.) seedlings for freeze tolerance
 publication_types:
   - "2"
 authors:
