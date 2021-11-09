@@ -5,7 +5,7 @@
 
 title: The DAISy Lab # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Sierra Young' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
