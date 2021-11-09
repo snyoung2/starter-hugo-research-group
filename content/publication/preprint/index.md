@@ -6,7 +6,7 @@ authors:
   - Y. Lu
   - Z. Li
   - "**S.N. Young**"
-publication_short: "[arXiv:2110.04960 (cs.CV)][https://arxiv.org/abs/2110.04960]"
+publication_short: "[arXiv:2110.04960 (cs.CV)](https://arxiv.org/abs/2110.04960)"
 abstract: ""
 draft: false
 slides: null
