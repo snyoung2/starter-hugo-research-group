@@ -7,7 +7,7 @@ authors:
   - S. Kronberg
   - F. Provenza
   - S. van Vliet
-  - "**S. Young**"
+  - "**S.N. Young**"
 doi: ""
 publication: "*Animal (in press)*.
   [doi.org/10.1016/j.animal.2021.100285](https://doi.org/10.1016/j.animal.2021.\
