@@ -10,7 +10,8 @@ authors:
   - "**S. Young**"
 doi: ""
 publication: "*Animal (in press)*.
-  [10.1016/j.animal.2021.100285](https://doi.org/10.1016/j.animal.2021.100285)"
+  [doi.org/10.1016/j.animal.2021.100285](https://doi.org/10.1016/j.animal.2021.\
+  100285)"
 draft: false
 featured: false
 image:
