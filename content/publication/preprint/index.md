@@ -1,8 +1,7 @@
 ---
 publication_types:
   - "3"
-authors:
-  - admin
+authors: []
 publication_short: ""
 abstract: ""
 draft: false
@@ -17,9 +16,8 @@ title: Performance Evaluation of Deep Transfer Learning on Multiclass
   Identification of Common Weed Species in Cotton Production Systems
 publication: ""
 featured: false
-tags:
-  - Source Themes
-date: 2019-04-07T00:00:00.000Z
+tags: []
+date: 2021-11-09T22:23:15.444Z
 url_slides: ""
 links:
   - name: Custom Link
