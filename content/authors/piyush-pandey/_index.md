@@ -1,6 +1,6 @@
 ---
 title: Piyush Pandey
-role: PhD Student, Biological and Agricultural Engineering (NCSU)
+role: PhD Candidate, Biological and Agricultural Engineering (NCSU)
 avatar_filename: avatar.jpg
 social: []
 superuser: false
