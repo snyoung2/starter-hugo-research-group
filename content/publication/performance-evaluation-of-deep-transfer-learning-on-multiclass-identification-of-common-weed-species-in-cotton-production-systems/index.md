@@ -1,6 +1,6 @@
 ---
 title: Performance Evaluation of Deep Transfer Learning on Multiclass
-  Identification of Common Weed Species in Cotton Production Systems.
+  Identification of Common Weed Species in Cotton Production Systems
 publication_types:
   - "3"
 authors:
