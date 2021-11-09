@@ -9,7 +9,8 @@ authors:
   - S. van Vliet
   - "**S. Young**"
 doi: 10.1016/j.animal.2021.100285
-publication: "*Animal (in press)*"
+publication: "*Animal (in press)*.
+  [10.1016/j.animal.2021.100285](https://doi.org/10.1016/j.animal.2021.100285)"
 draft: false
 featured: false
 image:
