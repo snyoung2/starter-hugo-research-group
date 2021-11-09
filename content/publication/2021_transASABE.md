@@ -12,7 +12,7 @@ authors:
 url_dataset: ""
 math: false
 url_project: ""
-publication: "*Transactions of the ASABE* (in press).
+publication: "*Transactions of the ASABE*, 64(2): 557-563.
   [doi.org/10.13031/trans.14085](https://doi.org/10.13031/trans.14085)"
 publication_short: ""
 url_source: ""
