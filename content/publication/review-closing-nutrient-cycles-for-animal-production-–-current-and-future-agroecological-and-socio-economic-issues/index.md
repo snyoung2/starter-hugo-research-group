@@ -8,7 +8,7 @@ authors:
   - F. Provenza
   - S. van Vliet
   - "**S. Young**"
-doi: 10.1016/j.animal.2021.100285
+doi: ""
 publication: "*Animal (in press)*.
   [10.1016/j.animal.2021.100285](https://doi.org/10.1016/j.animal.2021.100285)"
 draft: false
