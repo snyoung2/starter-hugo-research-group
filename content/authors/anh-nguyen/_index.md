@@ -1,7 +1,7 @@
 ---
 title: Anh Nguyen
 role: PhD Student
-avatar_filename: anh_nguyen.jpg
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 user_groups:
