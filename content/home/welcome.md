@@ -13,4 +13,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-The DAISy (**D**igital **A**gro-environment and **I**ntelligent **Sy**stems) Lab advances technical and human-centered design approaches for robotic and sensor systems to monitor environmental processes, while ensuring these systems are usable and adopted. Research in the DAISy Lab is done at the intersection of sensors and robotics, environmental and agricultural engineering, and data analytics, with a focus on technology advancement.
+The DAISy (**D**igital **A**gro-environment and **I**ntelligent **Sy**stems) Lab advances design approaches and develops new use cases for robotic and sensor systems to monitor environmental processes. An emphasis is placed on unoccupied systems, including aerial, surface, and ground vehicles. Research in the DAISy Lab is done at the intersection of sensors, robotics, environmental and agricultural engineering, and data analytics, with a focus on technology advancement.
