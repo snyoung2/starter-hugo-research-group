@@ -1,6 +1,6 @@
 ---
-title: Hyperspectral imaging-enabled high-throughput screening of loblolly pine
-  (Pinus taeda L.) seedlings for freeze tolerance
+title: Hyperspectral imaging with cost-sensitive learning for high-throughput
+  screening of loblolly pine (Pinus taeda L.) seedlings for freeze tolerance
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - A. Heine
   - T. Walker
   - "**S.N. Young**"
-publication: "*Transactions of the ASABE (accepted)*"
+publication: "*Transactions of the ASABE*, 64(6):2045:2059.
+  [https://doi.org/10.13031/trans.14708](https://doi.org/10.13031/trans.14708)"
 draft: false
 featured: false
 image:
