@@ -3,20 +3,20 @@ title: Smart Systems to Enhance Sustainability and Add Value to Marine Aquacultu
 publication_types:
   - "1"
 authors:
-  - SG Hall
-  - MD Campbell
-  - VM Campbell
-  - A Geddie
-  - MO Frinsko
-  - M Greensword
-  - R Hasan
-  - N Kasera
-  - C Malveaux
-  - D Paul
-  - M Thomas
-  - D Smith
-  - R Smith
-  - "**S Young**"
+  - S.G. Hall
+  - M.D. Campbell
+  - V.M. Campbell
+  - A. Geddie
+  - M.O. Frinsko
+  - M. Greensword
+  - R. Hasan
+  - N. Kasera
+  - C. Malveaux
+  - D. Paul
+  - M.T.homas
+  - D. Smith
+  - R. Smith
+  - "**S.N. Young**"
 doi: ""
 publication: 2021 ASABE Annual International Virtual Meeting, 2100523.
   [doi:10.13031/aim.202100523](doi:10.13031/aim.202100523)
