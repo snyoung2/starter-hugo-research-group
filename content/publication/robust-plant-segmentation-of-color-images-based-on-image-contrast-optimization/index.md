@@ -8,7 +8,8 @@ authors:
   - H. Wang
   - N. Wijewardane
 publication: "*Computers and Electronics in Agriculture*, 193, 106711.
-  [doi.org/10.1016/j.compag.2022.106711](doi.org/10.1016/j.compag.2022.106711)"
+  [doi.org/10.1016/j.compag.2022.106711](https://doi.org/10.1016/j.compag.2022.\
+  106711)"
 abstract: Plant segmentation is a crucial task in computer vision applications
   for identification/classification and quantification of plant phenotypic
   features. Robust segmentation of plants is challenged by a variety of factors
