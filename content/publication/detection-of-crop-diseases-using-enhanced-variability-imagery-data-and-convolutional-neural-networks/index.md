@@ -12,7 +12,8 @@ authors:
   - T. Fahima
   - B. Fishbain
 publication_short: "*Computers and Electronics in Agriculture*, 193, 106732.
-  [doi.org/10.1016/j.compag.2022.106732](doi.org/10.1016/j.compag.2022.106732)"
+  [doi.org/10.1016/j.compag.2022.106732](https://doi.org/10.1016/j.compag.2022.\
+  106732)"
 abstract: The timely detection of crop diseases is critical for securing crop
   productivity, lowering production costs, and minimizing agrochemical use. This
   study presents a crop disease identification method that is based on
