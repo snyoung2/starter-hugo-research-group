@@ -8,8 +8,9 @@ authors:
   - "**S.N. Young**"
   - S. Parham
   - M. Vandegrift
-publication: "PLoS Comput Biol 18(1): e1009663.
-  [doi.org/10.1371/journal.pcbi.1009663](doi.org/10.1371/journal.pcbi.1009663)"
+publication: "*PLoS Comput Biol* 18(1): e1009663.
+  [doi.org/10.1371/journal.pcbi.1009663](https://doi.org/10.1371/journal.pcbi.1\
+  009663)"
 draft: false
 featured: false
 image:
