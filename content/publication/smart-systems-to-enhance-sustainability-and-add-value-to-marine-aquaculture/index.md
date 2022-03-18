@@ -3,22 +3,23 @@ title: Smart Systems to Enhance Sustainability and Add Value to Marine Aquacultu
 publication_types:
   - "1"
 authors:
-  - Steven G Hall
-  - Matthew D Campbell
-  - Vashti M Campbell
-  - Alex Geddie
-  - Michael O Frinsko
-  - Marlon Greensword
-  - Rifat Hasan
-  - Nitesh Kasera
-  - Charles Malveaux
-  - Diplina Paul
-  - Melody Thomas
-  - Daniel Smith
-  - Russell Smith
-  - Sierra Young
-doi: doi:10.13031/aim.202100523
-publication: 2021 ASABE Annual International Virtual Meeting, 2100523
+  - SG Hall
+  - MD Campbell
+  - VM Campbell
+  - A Geddie
+  - MO Frinsko
+  - M Greensword
+  - R Hasan
+  - N Kasera
+  - C Malveaux
+  - D Paul
+  - M Thomas
+  - D Smith
+  - R Smith
+  - "**S Young**"
+doi: ""
+publication: 2021 ASABE Annual International Virtual Meeting, 2100523.
+  [doi:10.13031/aim.202100523](doi:10.13031/aim.202100523)
 draft: false
 featured: false
 image:
