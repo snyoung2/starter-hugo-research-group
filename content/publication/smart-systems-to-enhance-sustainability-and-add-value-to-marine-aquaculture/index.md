@@ -19,12 +19,12 @@ authors:
   - "**S.N. Young**"
 doi: ""
 publication: 2021 ASABE Annual International Virtual Meeting, 2100523.
-  [doi:10.13031/aim.202100523](doi:10.13031/aim.202100523)
+  [doi:10.13031/aim.202100523](https://doi:10.13031/aim.202100523)
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-03-18T21:19:53.369Z
+date: 2021-03-18T21:19:53.369Z
 ---
