@@ -12,7 +12,7 @@ authors:
   - T. Walker
   - "**S.N. Young**"
 publication: "*Transactions of the ASABE*, 64(6):2045:2059.
-  [https://doi.org/10.13031/trans.14708](https://doi.org/10.13031/trans.14708)"
+  [doi.org/10.13031/trans.14708](https://doi.org/10.13031/trans.14708)"
 draft: false
 featured: false
 image:
