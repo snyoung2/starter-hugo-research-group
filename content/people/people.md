@@ -26,4 +26,19 @@ design:
   show_role: true
   show_social: true
 ---
-Alumni:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+## Alumni:
+
+**Postdoctoral Researchers**
+*Dr. Yuzhen Lu*, Postdoc (NCSU), 2020, Assistant Professor at Mississippi State University.
+
+**Graduate Students**
+*Andrew Hillman*, MS, 2019-2021 (NCSU), PhD student at University of Wisconsin-Madison.
+*Russell Smith*, MS, 2019-2021 (NCSU).
+
+**Undergraduate Researchers**
+*Spencer Corkins*, Biological and Agricultural Engineering (NCSU), Spring 2020-2021.
+*Ian Dershem*, Computer Science (UNC Chapel Hill), Spring-Summer 2021
+*Evan Smith*, Biological & Agricultural Engineering (NCSU), Summer 2019-2020.
+*John Corriher* Biological & Agricultural Engineering (NCSU), Summer 2019
+*Will Daniels*, Computer Engineering (UNC Charlotte), Summer 2019
+*Nicole Knox*, Computer Engineering (NCSU), Fall 2019.
