@@ -28,17 +28,17 @@ design:
 ---
 ## Alumni:
 
-**Postdoctoral Researchers**
-*Dr. Yuzhen Lu*, Postdoc (NCSU), 2020, Assistant Professor at Mississippi State University.
+**Postdoctoral Researchers**   
+*Dr. Yuzhen Lu*, Postdoc (NCSU), 2020, Assistant Professor at Mississippi State University.   
 
-**Graduate Students**
-*Andrew Hillman*, MS, 2019-2021 (NCSU), PhD student at University of Wisconsin-Madison.
+**Graduate Students**   
+*Andrew Hillman*, MS, 2019-2021 (NCSU), PhD student at University of Wisconsin-Madison.   
 *Russell Smith*, MS, 2019-2021 (NCSU).
 
-**Undergraduate Researchers**
-*Spencer Corkins*, Biological and Agricultural Engineering (NCSU), Spring 2020-2021.
-*Ian Dershem*, Computer Science (UNC Chapel Hill), Spring-Summer 2021
-*Evan Smith*, Biological & Agricultural Engineering (NCSU), Summer 2019-2020.
-*John Corriher* Biological & Agricultural Engineering (NCSU), Summer 2019
-*Will Daniels*, Computer Engineering (UNC Charlotte), Summer 2019
-*Nicole Knox*, Computer Engineering (NCSU), Fall 2019.
+**Undergraduate Researchers**   
+*Spencer Corkins*, Biological and Agricultural Engineering (NCSU), Spring 2020-2021.   
+*Ian Dershem*, Computer Science (UNC Chapel Hill), Spring-Summer 2021.   
+*Evan Smith*, Biological & Agricultural Engineering (NCSU), Summer 2019-2020.   
+*John Corriher* Biological & Agricultural Engineering (NCSU), Summer 2019.   
+*Will Daniels*, Computer Engineering (UNC Charlotte), Summer 2019.   
+*Nicole Knox*, Computer Engineering (NCSU), Fall 2019.   
