@@ -17,4 +17,4 @@ design:
   columns: '3'
 ---
 
-{{< gallery album="homealbum" resize_options="324x216" >}}
+{{< gallery album="homealbum" resize_options="375x250" >}}
