@@ -14,7 +14,7 @@ subtitle:
 active: true
 
 design:
-  columns: '3'
+  columns: '4'
 ---
 
 {{< gallery album="homealbum" resize_options="375x250" >}}
