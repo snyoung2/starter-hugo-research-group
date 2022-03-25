@@ -1,6 +1,6 @@
 ---
 title: "Young Elected to the North American Plant Phenotyping Network Executive Board"
-date: 2021-02-014T16:13:46.466Z
+date: 2021-02-01
 draft: false
 image:
   focal_point: "Center"

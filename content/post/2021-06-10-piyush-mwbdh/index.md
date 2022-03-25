@@ -1,6 +1,6 @@
 ---
 title: "PhD student Piyush Pandey invited to deliver workshop content at the 2021 Midwest Big Data Summer School"
-date: 2021-06-114T16:13:46.466Z
+date: 2021-06-11
 draft: false
 image:
   focal_point: "Center"

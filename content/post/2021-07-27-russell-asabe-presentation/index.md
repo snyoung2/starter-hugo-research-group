@@ -1,6 +1,6 @@
 ---
 title: "Russell Smith receives Outstanding Student Presentation Award at the 2021 Annual International Meeting of the American Society of Agricultural and Biological Engineers"
-date: 2021-07-254T16:13:46.466Z
+date: 2021-07-25
 draft: false
 image:
   focal_point: "Center"
