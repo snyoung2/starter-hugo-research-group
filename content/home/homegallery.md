@@ -11,10 +11,10 @@ weight: 66
 
 title:
 subtitle:
-active: false
+active: true
 
 design:
   columns: '3'
 ---
 
-{{< gallery album="gallery" >}}
+{{< gallery album="homealbum" resize_options="324x216" >}}
