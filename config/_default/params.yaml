@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: my_theme
-day_night: false
+theme_day: my_theme
+day_night:
 font: native
-font_size: M
+font_size: S
 
 # SEO
 marketing:
@@ -40,9 +40,9 @@ main_menu:
 
 footer:
   copyright:
-    notice: '© {2022} Me. This work is licensed under {license}'
+    notice: '© 2022 Me.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
