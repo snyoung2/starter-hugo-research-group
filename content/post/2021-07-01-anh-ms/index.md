@@ -1,6 +1,6 @@
 ---
 title: "MS student Anh Nguyen defends thesis and graduates"
-date: 2021-07-014T16:13:46.466Z
+date: 2021-07-01
 draft: false
 image:
   focal_point: "Center"
