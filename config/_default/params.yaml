@@ -7,8 +7,8 @@
 
 theme_day: my_theme
 day_night:
-font: native
-font_size: s
+font: my-fonts
+font_size: S
 
 # SEO
 marketing:
