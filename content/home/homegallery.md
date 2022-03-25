@@ -11,9 +11,10 @@ weight: 66
 
 title:
 subtitle:
+active: false
 
 design:
   columns: '3'
 ---
 
-{{< gallery >}}
+{{< gallery album="gallery" >}}
