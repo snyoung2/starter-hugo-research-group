@@ -1,5 +1,5 @@
 ---
-title: "Russell Smith receives Outstanding Student Presentation Award at the 2021 Annual International Meeting of the American Society of Agricultural and Biological Engineers"
+title: "MS students Andrew Hillman and Russell Smith defend theses and graduate."
 date: 2021-11-20
 draft: false
 image:
