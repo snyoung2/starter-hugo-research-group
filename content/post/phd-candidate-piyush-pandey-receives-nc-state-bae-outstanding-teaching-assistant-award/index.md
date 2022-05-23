@@ -7,6 +7,6 @@ featured: false
 image:
   filename: piyush_award.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Piyush Pandey recently received the "Outstanding Teaching Assistant" award from the NC State Department of Biological and Agricultural Engineering. Congrats Piyush!
